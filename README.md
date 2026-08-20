@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/gsribalan/Leetcode-Problems/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/gsribalan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
 ## Sorting
 |  |
 | ------- |
@@ -49,8 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gsribalan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gsribalan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
