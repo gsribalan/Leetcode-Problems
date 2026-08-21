@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/gsribalan/Leetcode-Problems/tree/master/0079-word-search) |
+| [0394-decode-string](https://github.com/gsribalan/Leetcode-Problems/tree/master/0394-decode-string) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/gsribalan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/gsribalan/Leetcode-Problems/tree/master/0394-decode-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/gsribalan/Leetcode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/gsribalan/Leetcode-Problems/tree/master/0394-decode-string) |
 ## Hash Table
 |  |
 | ------- |
