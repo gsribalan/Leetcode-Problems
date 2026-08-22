@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gsribalan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/gsribalan/Leetcode-Problems/tree/master/0394-decode-string) |
+| [1172-dinner-plate-stacks](https://github.com/gsribalan/Leetcode-Problems/tree/master/1172-dinner-plate-stacks) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -73,4 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/gsribalan/Leetcode-Problems/tree/master/0138-copy-list-with-random-pointer) |
+| [1172-dinner-plate-stacks](https://github.com/gsribalan/Leetcode-Problems/tree/master/1172-dinner-plate-stacks) |
+## Design
+|  |
+| ------- |
+| [1172-dinner-plate-stacks](https://github.com/gsribalan/Leetcode-Problems/tree/master/1172-dinner-plate-stacks) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1172-dinner-plate-stacks](https://github.com/gsribalan/Leetcode-Problems/tree/master/1172-dinner-plate-stacks) |
 <!---LeetCode Topics End-->
