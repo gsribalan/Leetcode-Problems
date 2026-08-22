@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/gsribalan/Leetcode-Problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/gsribalan/Leetcode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/gsribalan/Leetcode-Problems/tree/master/0090-subsets-ii) |
+| [0735-asteroid-collision](https://github.com/gsribalan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 ## Backtracking
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/gsribalan/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/gsribalan/Leetcode-Problems/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/gsribalan/Leetcode-Problems/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/gsribalan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 | [1172-dinner-plate-stacks](https://github.com/gsribalan/Leetcode-Problems/tree/master/1172-dinner-plate-stacks) |
 ## Monotonic Stack
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/gsribalan/Leetcode-Problems/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/gsribalan/Leetcode-Problems/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
